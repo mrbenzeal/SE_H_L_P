@@ -27,7 +27,8 @@ Simultaneously, I continued to reinforce and expand my skills in C and shell scr
 * [0x15. Javascript - Web JQuery](./0x15-javascript-web_jquery)
 
 ## Author :
-* **[Suara Ayomide](https://twitter.com/Aysuarex)** <[Aysuarex](https://github.com/Aysuarex)>
+
+* **Ani Obinna Benzeal** <[mrbenzeal](https://github.com/mrbenzeal)>
 
 ## Acknowledgements :pray:
 
